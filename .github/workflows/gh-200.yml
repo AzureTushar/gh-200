@@ -21,4 +21,4 @@ jobs:
           figlet "GH-200 CoHack"
           echo
           figlet -f slant "GitHub Actions"
-          ASCII art generated using figlet!"
+          "ASCII art generated using figlet!"
