@@ -10,7 +10,7 @@ jobs:
         run:  echo "Hello From GH-200 session ! lets create somegreat Workflow files"
 
       - name: Checkout repo
-        uses: action/checkout@v6
+        uses: actions/checkout@v6
         
       - name: List files
         run: ls -la
